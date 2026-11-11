@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_page": "https://photo.freehihi.com/frames",
-  "frame_count": 155,
-  "square_output_count": 150,
+  "frame_count": 156,
+  "square_output_count": 151,
   "app_sample_count": 5,
   "frame_sections": {
     "forket-exclusive": {
@@ -8337,6 +8337,92 @@
           "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/frames/frame-ai-hoc/0621-hanu.png.enc",
           "source_filename": "0621_hanu_6a5396707e531.png",
           "source_page": "https://photo.freehihi.com/frames"
+        },
+        "utt-high-speed-train": {
+          "frame_id": "utt-high-speed-train",
+          "source_frame_id": null,
+          "section_id": 15,
+          "section_name": "Frame Đại Học",
+          "order_id": 18,
+          "name": "UTT",
+          "topic": "Frame Đại Học",
+          "layout_id": "2x2",
+          "layout_label": "2×2",
+          "variant": "square_2x2",
+          "requires_gold": false,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "photo_count": 4,
+          "photo_windows": [
+            {
+              "index": 0,
+              "x_px": 89,
+              "y_px": 154,
+              "width_px": 513,
+              "height_px": 396,
+              "left": 0.07097288676236045,
+              "top": 0.12280701754385964,
+              "right": 0.4800637958532695,
+              "bottom": 0.43859649122807015,
+              "width": 0.4090909090909091,
+              "height": 0.3157894736842105,
+              "aspect_ratio": 1.2954545454545454,
+              "shape": "rounded_rectangle",
+              "corner_radius_fraction": 0.07602339181286549
+            },
+            {
+              "index": 1,
+              "x_px": 652,
+              "y_px": 154,
+              "width_px": 513,
+              "height_px": 396,
+              "left": 0.5199362041467305,
+              "top": 0.12280701754385964,
+              "right": 0.9290271132376395,
+              "bottom": 0.43859649122807015,
+              "width": 0.4090909090909091,
+              "height": 0.3157894736842105,
+              "aspect_ratio": 1.2954545454545454,
+              "shape": "rounded_rectangle",
+              "corner_radius_fraction": 0.07602339181286549
+            },
+            {
+              "index": 2,
+              "x_px": 89,
+              "y_px": 589,
+              "width_px": 513,
+              "height_px": 392,
+              "left": 0.07097288676236045,
+              "top": 0.4696969696969697,
+              "right": 0.4800637958532695,
+              "bottom": 0.7822966507177034,
+              "width": 0.4090909090909091,
+              "height": 0.31259968102073366,
+              "aspect_ratio": 1.308673469387755,
+              "shape": "rounded_rectangle",
+              "corner_radius_fraction": 0.07602339181286549
+            },
+            {
+              "index": 3,
+              "x_px": 652,
+              "y_px": 589,
+              "width_px": 513,
+              "height_px": 392,
+              "left": 0.5199362041467305,
+              "top": 0.4696969696969697,
+              "right": 0.9290271132376395,
+              "bottom": 0.7822966507177034,
+              "width": 0.4090909090909091,
+              "height": 0.31259968102073366,
+              "aspect_ratio": 1.308673469387755,
+              "shape": "rounded_rectangle",
+              "corner_radius_fraction": 0.07602339181286549
+            }
+          ],
+          "image_path": "frames/frame-dai-hoc/utt.png",
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/frames/frame-dai-hoc/utt.png.enc",
+          "source_filename": "generated-image.png",
+          "source_page": "user-provided"
         }
       }
     },
