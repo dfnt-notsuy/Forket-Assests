@@ -1,0 +1,355 @@
+{
+  "version": 1,
+  "frame_count": 38,
+  "frame_sections": {
+    "1": {
+      "section_id": 1,
+      "name": "Khung đơn",
+      "order_id": 1,
+      "frames": {
+        "khung-2-img-0062": {
+          "frame_id": "khung-2-img-0062",
+          "name": "20/10",
+          "section_id": 1,
+          "order_id": 1,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0062.png.enc"
+        },
+        "khung-1-img-0176": {
+          "frame_id": "khung-1-img-0176",
+          "name": "Chiikawa",
+          "section_id": 1,
+          "order_id": 2,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0176.png.enc"
+        },
+        "khung-2-img-0104": {
+          "frame_id": "khung-2-img-0104",
+          "name": "Chiikawa 2",
+          "section_id": 1,
+          "order_id": 3,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0104.png.enc"
+        },
+        "khung-1-khung-cinnamoroll-pastel-ang-yeu": {
+          "frame_id": "khung-1-khung-cinnamoroll-pastel-ang-yeu",
+          "name": "Cinnamoroll",
+          "section_id": 1,
+          "order_id": 4,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-khung-cinnamoroll-pastel-ang-yeu.png.enc"
+        },
+        "khung-2-img-0057": {
+          "frame_id": "khung-2-img-0057",
+          "name": "Cinnamoroll 2",
+          "section_id": 1,
+          "order_id": 5,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0057.png.enc"
+        },
+        "khung-1-img-0182": {
+          "frame_id": "khung-1-img-0182",
+          "name": "Conan",
+          "section_id": 1,
+          "order_id": 6,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0182.png.enc"
+        },
+        "khung-2-img-0054": {
+          "frame_id": "khung-2-img-0054",
+          "name": "Cute",
+          "section_id": 1,
+          "order_id": 7,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0054.png.enc"
+        },
+        "khung-1-img-0183": {
+          "frame_id": "khung-1-img-0183",
+          "name": "Doraemon",
+          "section_id": 1,
+          "order_id": 8,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0183.png.enc"
+        },
+        "khung-2-img-0055": {
+          "frame_id": "khung-2-img-0055",
+          "name": "Doraemon 2",
+          "section_id": 1,
+          "order_id": 9,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0055.png.enc"
+        },
+        "khung-2-img-0061": {
+          "frame_id": "khung-2-img-0061",
+          "name": "Giáng sinh",
+          "section_id": 1,
+          "order_id": 10,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0061.png.enc"
+        },
+        "khung-1-khung-gojo-xanh-nang-luong-trong-suot": {
+          "frame_id": "khung-1-khung-gojo-xanh-nang-luong-trong-suot",
+          "name": "Gojo",
+          "section_id": 1,
+          "order_id": 11,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-khung-gojo-xanh-nang-luong-trong-suot.png.enc"
+        },
+        "khung-2-img-0089": {
+          "frame_id": "khung-2-img-0089",
+          "name": "Gray Cute",
+          "section_id": 1,
+          "order_id": 12,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0089.png.enc"
+        },
+        "khung-2-img-0092": {
+          "frame_id": "khung-2-img-0092",
+          "name": "Grizzy",
+          "section_id": 1,
+          "order_id": 13,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0092.png.enc"
+        },
+        "khung-1-img-0181": {
+          "frame_id": "khung-1-img-0181",
+          "name": "Hachiware",
+          "section_id": 1,
+          "order_id": 14,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0181.png.enc"
+        },
+        "khung-1-img-0177": {
+          "frame_id": "khung-1-img-0177",
+          "name": "Halloween",
+          "section_id": 1,
+          "order_id": 15,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0177.png.enc"
+        },
+        "khung-1-img-0184": {
+          "frame_id": "khung-1-img-0184",
+          "name": "Halloween 2",
+          "section_id": 1,
+          "order_id": 16,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0184.png.enc"
+        },
+        "khung-1-img-0188": {
+          "frame_id": "khung-1-img-0188",
+          "name": "Jujutsu Kaisen",
+          "section_id": 1,
+          "order_id": 17,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0188.png.enc"
+        },
+        "khung-1-img-0186": {
+          "frame_id": "khung-1-img-0186",
+          "name": "Kappa",
+          "section_id": 1,
+          "order_id": 18,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0186.png.enc"
+        },
+        "khung-1-img-0179": {
+          "frame_id": "khung-1-img-0179",
+          "name": "Keroppi",
+          "section_id": 1,
+          "order_id": 19,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0179.png.enc"
+        },
+        "khung-1-img-0178": {
+          "frame_id": "khung-1-img-0178",
+          "name": "Kuromi",
+          "section_id": 1,
+          "order_id": 20,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0178.png.enc"
+        },
+        "khung-2-1ab4e258-cf0e-47a1-a153-59f2d000aa89": {
+          "frame_id": "khung-2-1ab4e258-cf0e-47a1-a153-59f2d000aa89",
+          "name": "One Piece",
+          "section_id": 1,
+          "order_id": 21,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-1ab4e258-cf0e-47a1-a153-59f2d000aa89.png.enc"
+        },
+        "khung-2-img-0087": {
+          "frame_id": "khung-2-img-0087",
+          "name": "One Piece 2",
+          "section_id": 1,
+          "order_id": 22,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0087.png.enc"
+        },
+        "khung-2-img-0083": {
+          "frame_id": "khung-2-img-0083",
+          "name": "Pink Cute",
+          "section_id": 1,
+          "order_id": 23,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0083.png.enc"
+        },
+        "khung-2-img-0056": {
+          "frame_id": "khung-2-img-0056",
+          "name": "Pink Cute 2",
+          "section_id": 1,
+          "order_id": 24,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0056.png.enc"
+        },
+        "khung-1-img-0180": {
+          "frame_id": "khung-1-img-0180",
+          "name": "Pochacoo",
+          "section_id": 1,
+          "order_id": 25,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0180.png.enc"
+        },
+        "khung-1-img-0175": {
+          "frame_id": "khung-1-img-0175",
+          "name": "Pompompurin",
+          "section_id": 1,
+          "order_id": 26,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0175.png.enc"
+        },
+        "khung-2-img-0058": {
+          "frame_id": "khung-2-img-0058",
+          "name": "Pompompurin 2",
+          "section_id": 1,
+          "order_id": 27,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0058.png.enc"
+        },
+        "khung-2-2c42eccd-87e7-4a6c-9662-69a429163ab5": {
+          "frame_id": "khung-2-2c42eccd-87e7-4a6c-9662-69a429163ab5",
+          "name": "Pororo",
+          "section_id": 1,
+          "order_id": 28,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-2c42eccd-87e7-4a6c-9662-69a429163ab5.png.enc"
+        },
+        "khung-1-img-0185": {
+          "frame_id": "khung-1-img-0185",
+          "name": "Shinnosuke",
+          "section_id": 1,
+          "order_id": 29,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0185.png.enc"
+        },
+        "khung-2-img-0082": {
+          "frame_id": "khung-2-img-0082",
+          "name": "Shinnosuke 2",
+          "section_id": 1,
+          "order_id": 30,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0082.png.enc"
+        },
+        "khung-2-img-0064": {
+          "frame_id": "khung-2-img-0064",
+          "name": "single-frame-IMG_0064",
+          "section_id": 1,
+          "order_id": 31,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0064.png.enc"
+        },
+        "khung-1-khung-vien-sword-art-online-xanh-hong": {
+          "frame_id": "khung-1-khung-vien-sword-art-online-xanh-hong",
+          "name": "Sword Art Online",
+          "section_id": 1,
+          "order_id": 32,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-khung-vien-sword-art-online-xanh-hong.png.enc"
+        },
+        "khung-1-6c0f9059-e8d7-4c83-a768-2fb68c13fa52": {
+          "frame_id": "khung-1-6c0f9059-e8d7-4c83-a768-2fb68c13fa52",
+          "name": "Sword Art Online 2",
+          "section_id": 1,
+          "order_id": 33,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-6c0f9059-e8d7-4c83-a768-2fb68c13fa52.png.enc"
+        },
+        "khung-2-img-0059": {
+          "frame_id": "khung-2-img-0059",
+          "name": "The Smurfs",
+          "section_id": 1,
+          "order_id": 34,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0059.png.enc"
+        },
+        "khung-2-img-0065": {
+          "frame_id": "khung-2-img-0065",
+          "name": "Usagi",
+          "section_id": 1,
+          "order_id": 35,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0065.png.enc"
+        },
+        "khung-1-khung-usagi-tho-kawaii-trong-suot": {
+          "frame_id": "khung-1-khung-usagi-tho-kawaii-trong-suot",
+          "name": "Usagi Kawaii",
+          "section_id": 1,
+          "order_id": 36,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-khung-usagi-tho-kawaii-trong-suot.png.enc"
+        },
+        "khung-2-img-0084": {
+          "frame_id": "khung-2-img-0084",
+          "name": "Yellow Cute",
+          "section_id": 1,
+          "order_id": 37,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-img-0084.png.enc"
+        },
+        "khung-1-khung-vien-zenitsu-tia-set-trong-suot": {
+          "frame_id": "khung-1-khung-vien-zenitsu-tia-set-trong-suot",
+          "name": "Zenitsu",
+          "section_id": 1,
+          "order_id": 38,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/single-frame/single-frame-khung-vien-zenitsu-tia-set-trong-suot.png.enc"
+        }
+      }
+    }
+  }
+}
