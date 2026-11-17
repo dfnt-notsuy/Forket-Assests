@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_page": "https://photo.freehihi.com/frames",
-  "frame_count": 156,
-  "square_output_count": 151,
+  "frame_count": 157,
+  "square_output_count": 152,
   "app_sample_count": 5,
   "frame_sections": {
     "forket-exclusive": {
@@ -8422,6 +8422,92 @@
           "image_path": "frames/frame-dai-hoc/utt.png",
           "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/frames/frame-dai-hoc/utt.png.enc",
           "source_filename": "generated-image.png",
+          "source_page": "user-provided"
+        },
+        "hvktqs-2026": {
+          "frame_id": "hvktqs-2026",
+          "source_frame_id": null,
+          "section_id": 15,
+          "section_name": "Frame Đại Học",
+          "order_id": 19,
+          "name": "HVKTQS",
+          "topic": "Frame Đại Học",
+          "layout_id": "2x2",
+          "layout_label": "2×2",
+          "variant": "square_2x2",
+          "requires_gold": false,
+          "frame_width_px": 1254,
+          "frame_height_px": 1254,
+          "photo_count": 4,
+          "photo_windows": [
+            {
+              "index": 0,
+              "x_px": 136,
+              "y_px": 238,
+              "width_px": 476,
+              "height_px": 400,
+              "left": 0.10857143,
+              "top": 0.18945312,
+              "right": 0.488,
+              "bottom": 0.50878906,
+              "width": 0.37942857,
+              "height": 0.31933594,
+              "aspect_ratio": 1.18818,
+              "shape": "rounded_rectangle",
+              "corner_radius_fraction": 0.06
+            },
+            {
+              "index": 1,
+              "x_px": 649,
+              "y_px": 238,
+              "width_px": 483,
+              "height_px": 400,
+              "left": 0.51771428,
+              "top": 0.18945312,
+              "right": 0.90285714,
+              "bottom": 0.50878906,
+              "width": 0.38514286,
+              "height": 0.31933594,
+              "aspect_ratio": 1.206074,
+              "shape": "rounded_rectangle",
+              "corner_radius_fraction": 0.06
+            },
+            {
+              "index": 2,
+              "x_px": 138,
+              "y_px": 670,
+              "width_px": 474,
+              "height_px": 411,
+              "left": 0.10971428,
+              "top": 0.53417969,
+              "right": 0.488,
+              "bottom": 0.86230469,
+              "width": 0.37828572,
+              "height": 0.328125,
+              "aspect_ratio": 1.152871,
+              "shape": "rounded_rectangle",
+              "corner_radius_fraction": 0.06
+            },
+            {
+              "index": 3,
+              "x_px": 649,
+              "y_px": 670,
+              "width_px": 482,
+              "height_px": 410,
+              "left": 0.51771428,
+              "top": 0.53417969,
+              "right": 0.90171429,
+              "bottom": 0.86132812,
+              "width": 0.38400001,
+              "height": 0.32714843,
+              "aspect_ratio": 1.173779,
+              "shape": "rounded_rectangle",
+              "corner_radius_fraction": 0.06
+            }
+          ],
+          "image_path": "frames/frame-dai-hoc/hoc-vien-ky-thuat-quan-su.png",
+          "image_url": "https://raw.githubusercontent.com/dfnt-notsuy/Forket-Assests/main/frames/frame-dai-hoc/hoc-vien-ky-thuat-quan-su.png.enc",
+          "source_filename": "user-provided-hvktqs-frame.jpg",
           "source_page": "user-provided"
         }
       }
